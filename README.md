@@ -1,4 +1,4 @@
-# VC-Unicorn-Startup-Analysis
+# UnicornVis: Visualizing Venture Capital Unicorns
 
 ## Project Description
 The "UnicornVis: Visualizing Venture Capital Unicorns" project is an interactive visualization tool built using Python, Tableau, and Jupyter Notebook. This project aims to provide a comprehensive and visually engaging overview of unicorn startups, which are privately held companies valued at over $1 billion.
