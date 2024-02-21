@@ -14,7 +14,7 @@ With its blend of Python's data processing capabilities, Jupyter Notebook's inte
 ### Built With
 - Jupyter Notebook
 - Python
-- Tableau
+- [Tableau](https://public.tableau.com/app/profile/cara.li.farrell/viz/UnicornStartupAnalysis_16895680983390/UnicornStartupAnalysis)
 
 ## Data Source
 Data from https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups
